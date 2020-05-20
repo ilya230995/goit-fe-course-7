@@ -181,6 +181,9 @@ a {
     background-repeat: no-repeat;
     background-position: center;
 }
+.partner_img {
+    border-radius: 50%;
+}
 .partner_name,
 .about_partner {
     text-align: center;
